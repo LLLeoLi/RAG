@@ -1,0 +1,6 @@
+medqa/*
+__pycache__/*
+db/*
+build_db.py
+huatuo.ipynb
+huatuo.py
